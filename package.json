@@ -1,0 +1,14 @@
+{
+  "name": "vanity-npub",
+  "version": "1.0.0",
+  "description": "A quick and dirty script to find a nostr vanity npub.",
+  "repository": "https://github.com/Shadouts/vanity-npub.git",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "nostr-tools": "^1.2.0"
+  }
+}
